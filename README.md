@@ -10,6 +10,6 @@ pkg install lolcat
 pkg install wget
 pkg install toilet
 pkg install mechanize
-git clone https://github.com/wayle77/FreeWifi
-cd FreeWifi
+git clone https://github.com/wayle77/Free
+cd Free
 python main.py
